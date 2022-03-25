@@ -1,5 +1,5 @@
 /*
- Chat Server
+ Chat Server sample code
 
 
  */
